@@ -30,11 +30,11 @@ function SearchBar() {
           </span>
           <label htmlFor="search" className="w-full">
             <input
-              type="text"
-              id="search"
-              placeholder="Search..."
-              className="search-input w-full border-none bg-bgray-50 bg-none px-0 text-sm tracking-wide text-bgray-600 placeholder:text-sm placeholder:font-semibold focus:outline-none focus:ring-0 dark:bg-darkblack-500 dark:placeholder:text-bgray-500"
-            />
+  type="text"
+  id="search"
+  placeholder="Search..."
+  className="search-input w-full border-none bg-bgray-50 bg-none px-0 text-sm tracking-wide text-bgray-600 placeholder:text-sm placeholder:font-semibold focus:outline-none focus:ring-0 dark:bg-darkblack-500 dark:placeholder:text-bgray-500"
+/>
           </label>
         </div>
         <div className="flex items-center space-x-[6px]">
